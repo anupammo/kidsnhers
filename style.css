@@ -44,28 +44,31 @@ h1, h2 {
   height: 100%;
 } */
 .item.slider1 {
-  background-image: url(img/slider1.jpg);
+  /* background-image: url(img/slider1.jpg); */
+  background-image: url(https://images.pexels.com/photos/1711515/pexels-photo-1711515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
   background-size: cover;
 }
 .item.slider2 {
-  background-image: url(img/slider2.jpg);
+  /* background-image: url(img/slider2.jpg); */
+  background-image: url(https://images.pexels.com/photos/1115128/pexels-photo-1115128.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
   background-size: cover;
 }
 .item.slider3 {
-  background-image: url(img/slider3.jpg);
+  /* background-image: url(img/slider3.jpg); */
+  background-image: url(https://images.pexels.com/photos/705255/pexels-photo-705255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
   background-size: cover;
 }
 .item h2 {
     width: fit-content;
     margin: 0 auto;
-    padding-top: 50px;
-    padding-bottom: 20px;
+    padding-top: 100px;
+    padding-bottom: 30px;
     color: #edddff;
     text-shadow: 0px 0px 5px #000000cc;
 }
 .item-p {
     width: 50%;
-    margin: 15px auto;
+    margin: 50px auto;
     padding: 10px 20px;
     padding-top: 20px;
     padding-bottom: 30px;
@@ -78,11 +81,8 @@ h1, h2 {
     font-family: 'Kodchasan', sans-serif;
     /* text-shadow: 0px 0px 5px #000000cc; */
 }
-/* button.item-btn {
-    border: none;
-} */
-.item a {
-  margin-bottom: 70px;
+.item {
+  padding-bottom: 100px;
 }
 .item-btn {
     width: fit-content;
@@ -118,7 +118,9 @@ section#about {
   /* background-image: url(https://images.pexels.com/photos/764683/pexels-photo-764683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260); */
   /* background-image: url(https://images.pexels.com/photos/268715/pexels-photo-268715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260); */
   /* background-image: url(https://images.pexels.com/photos/749386/pexels-photo-749386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260); */
-  background-image: url(https://images.pexels.com/photos/534031/pexels-photo-534031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  /* background-image: url(https://images.pexels.com/photos/534031/pexels-photo-534031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260); */
+  background-image: url(https://images.pexels.com/photos/6148/brush-makeup-make-up-brushes.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  /* background-image: url(https://images.pexels.com/photos/60571/cosmetics-makeup-make-up-brush-60571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260); */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -129,7 +131,7 @@ section#courses {
     padding-top: 20px;
 }
 .bg-style {
-    background-color: #0a00bfcc;
+    background-color: #FF5722;
     box-shadow: #ffffff 0px 0px 25px;
     border-radius: 10px;
     margin-top: 100px;
